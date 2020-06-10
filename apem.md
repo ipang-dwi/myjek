@@ -7,4 +7,6 @@ ok: samsum
 published: false
 
 ---
+![](/uploads/ipang.png)
+
 apapun yang terjadi, terjadilah..
