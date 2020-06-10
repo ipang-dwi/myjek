@@ -23,3 +23,5 @@ fields:
     schema:
       format: markdown
   label: ok
+pages:
+- apem.md
