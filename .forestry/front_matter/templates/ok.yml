@@ -14,3 +14,12 @@ fields:
 - type: text
   name: categories
   label: categories
+- name: ok
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: ok
